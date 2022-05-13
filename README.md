@@ -1,4 +1,4 @@
-### Olá, eu sou o Matheus Cassioli 👋  
+### Olá, me chamo Matheus Cassioli 👋  
 Atualmente sou estudante de Análise e desenvolvimento de Sistemas, e trabalho como dev Front-end na Faculdade das Américas.
 
 Nas horas vagas procuro resolver alguns desafios com a parte de design pronta, assim tentando exercitar ao máximo meus conhecimento front-end.
