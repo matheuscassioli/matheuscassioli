@@ -4,3 +4,5 @@ Atualmente sou estudante de Análise e desenvolvimento de Sistemas, e trabalho c
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuscss/)
 
 ![Matheus Cassioli GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscassioli&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscassioli&layout=compact)](https://github.com/matheuscassioli/github-readme-stats)
