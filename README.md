@@ -1,5 +1,6 @@
 ### Olá, eu sou o Matheus Cassioli 👋  
 Atualmente sou estudante de Análise e desenvolvimento de Sistemas, e trabalho como dev Front-end na Faculdade das Américas.
+
 Nas horas vagas procuro resolver desafios, assim tentando exercitar ao máximo meus conhecimentos.
 
 ![TECNOLOGIAS](https://img.shields.io/badge/TECNOLOGIAS_▶-323330?style=for-the-badge&logo=sinon)
