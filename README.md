@@ -1,9 +1,7 @@
-### Olá, me chamo Matheus Cassioli 👋  
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, e trabalho no Front-end dos conteúdos EAD da Faculdade das Américas.
+### Olá, eu sou o Matheus Cassioli 👋  
+Atualmente sou estudante de Análise e desenvolvimento de Sistemas, e trabalho como dev Front-end na Faculdade das Américas.
 
-Nas horas vagas procuro resolver alguns desafios com a parte de design pronta, assim tentando exercitar ao máximo meus conhecimento front-end.
-
-![TECNOLOGIAS](https://img.shields.io/badge/TECNOLOGIAS_▶-323330?style=for-the-badge&logo=sinon)
+![TECNOLOGIAS](https://img.shields.io/badge/TECNOLOGIAS_🡺-323330?style=for-the-badge&logo=sinon)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -13,5 +11,13 @@ Nas horas vagas procuro resolver alguns desafios com a parte de design pronta, a
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Matheus Cassioli GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscassioli&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscassioli&theme=blue-green)](https://github.com/matheuscassioli/github-readme-stats)
+
+
+![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![CODEPEN](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![TRELLO](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![CANVA](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![FACILITADORES](https://img.shields.io/badge/🡸_FACILITADORES-323330?style=for-the-badge&logo=sinon)
 
 
