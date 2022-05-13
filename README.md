@@ -10,6 +10,6 @@ Atualmente sou estudante de Análise e desenvolvimento de Sistemas, e trabalho c
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Matheus Cassioli GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscassioli&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscassioli&layout=compact)](https://github.com/matheuscassioli/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)](https://github.com/matheuscassioli/github-readme-stats)
 
 
