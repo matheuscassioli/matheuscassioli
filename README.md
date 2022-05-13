@@ -2,7 +2,7 @@
 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, e faço parte do time do front-end da Faculdade das Américas.
 
 Nas horas vagas, me empenho em praticar meus conhecimentos realizando alguns desafios com a parte de design já definida, incitando novas formas de desenvolver os layouts.
-
+<br/>
 
 ![TECNOLOGIAS](https://img.shields.io/badge/TECNOLOGIAS_🡺-323330?style=for-the-badge&logo=sinon)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
