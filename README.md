@@ -3,8 +3,7 @@ Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, e faço part
 
 Nas horas vagas, me empenho em praticar meus conhecimentos realizando alguns desafios com a parte de design já definida, incitando novas formas de desenvolver os layouts.
 <br/>
-
-![TECNOLOGIAS](https://img.shields.io/badge/TECNOLOGIAS_🡺-323330?style=for-the-badge&logo=sinon)
+ 
 <img align="center" alt="HTML5" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="CSS3" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="JS" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">     
