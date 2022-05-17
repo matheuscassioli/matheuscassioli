@@ -9,7 +9,6 @@ Abaixo estão algumas linguagens que ja tive contato.
 <img alt="HTML5" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"><img alt="CSS3" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img alt="JS" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">     <img alt="SASS" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /><img alt="ARDUINO" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /><img alt="NODEJS" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
               
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Matheus Cassioli GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscassioli&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscassioli&theme=blue-green)](https://github.com/matheuscassioli/github-readme-stats)
 
