@@ -4,7 +4,9 @@ Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, e faço part
 Nas horas vagas, me empenho em praticar meus conhecimentos realizando alguns desafios com a parte de design já definida, incitando novas formas de desenvolver os diversos layouts propostos.
 <br/>
 
-Ao estão algumas linguagens que ja tive contato.<img alt="HTML5" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"><img alt="CSS3" height="45" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img alt="JS" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"><img alt="SASS" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /><img alt="ARDUINO" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /><img alt="NODEJS" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"><img alt="C" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+## Minhas Skills :nerd_face:
+
+<img alt="HTML5" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"><img alt="CSS3" height="45" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img alt="JS" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"><img alt="SASS" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /><img alt="ARDUINO" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /><img alt="NODEJS" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"><img alt="C" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
           
 
               
