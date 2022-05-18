@@ -24,7 +24,7 @@ Ao estão algumas linguagens que ja tive contato.<img alt="HTML5" height="45" wi
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/matheuscss">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/matheuscss/">
-    </a
+          </a>
 
 ![REPLIT](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 ![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
