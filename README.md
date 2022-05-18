@@ -18,7 +18,7 @@ Resumindo um pouco, atualmente estou me graduando em Análise e Desenvolvimento 
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/matheuscassioli">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a target="_blank" href="mailto:math.cassioli@gmail.com">
+    <a target="_blank" href="mailto:matheuscassioli@hotmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:math.cassioli@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
