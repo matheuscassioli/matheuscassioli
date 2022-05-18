@@ -19,3 +19,18 @@ Ao estão algumas linguagens que ja tive contato.<img alt="HTML5" height="45" wi
 ![FACILITADORES](https://img.shields.io/badge/🡸_FACILITADORES-323330?style=for-the-badge&logo=sinon)
 
 
+<p align="center">
+    <a href="https://github.com/matheuscassioli">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/matheuscassioli">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:math.cassioli@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:math.cassioli@gmail.com">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/matheuscss">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/matheuscss/">
+    </a>
+</p>
+
+
