@@ -30,6 +30,7 @@ Nas horas vagas, me empenho em praticar meus conhecimentos realizando alguns des
  
    ## Facilitadores :hammer:
           
+          <p align="center">
 ![REPLIT](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
