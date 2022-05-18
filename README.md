@@ -11,9 +11,6 @@ Nas horas vagas, me empenho em praticar meus conhecimentos realizando alguns des
           
 
               
-![Matheus Cassioli GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscassioli&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscassioli&theme=blue-green)](https://github.com/matheuscassioli/github-readme-stats)
-
 ## Meus contatos :iphone:
 
 <p align="center">
@@ -57,6 +54,9 @@ Nas horas vagas, me empenho em praticar meus conhecimentos realizando alguns des
           </a>
           
  
+![Matheus Cassioli GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscassioli&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscassioli&theme=blue-green)](https://github.com/matheuscassioli/github-readme-stats)
+
 
 
  
