@@ -26,7 +26,7 @@ Nas horas vagas, me empenho em praticar meus conhecimentos realizando alguns des
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/matheuscss/">
           </a> 
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a target="https://clever-stonebraker-19c5fd.netlify.app/" href="#">
+    <a target="_blank"href="https://clever-stonebraker-19c5fd.netlify.app/MatheusCassioli.pdf">
           </a><img src="https://img.shields.io/badge/DOWNLOAD_CV-%234DC730.svg?style=for-the-badge&logo=DOWNLOAD_CV&logoColor=white">
           </a> 
 
