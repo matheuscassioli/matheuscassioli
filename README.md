@@ -53,7 +53,7 @@ Nas horas vagas, me empenho em praticar meus conhecimentos realizando alguns des
         <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
           </a>
           
- ##Contribuições :pushpin:
+ ## Contribuições :pushpin:
 
 ![Matheus Cassioli GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscassioli&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscassioli&theme=blue-green)](https://github.com/matheuscassioli/github-readme-stats)
