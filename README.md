@@ -27,7 +27,7 @@ Nas horas vagas, me empenho em praticar meus conhecimentos realizando alguns des
           </a> 
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a target="_blank" href="https://clever-stonebraker-19c5fd.netlify.app/MatheusCassioli.pdf">
-          <img src="https://img.shields.io/badge/DOWNLOAD_CV-%234DC730.svg?style=for-the-badge&logo=DOWNLOAD_CV&logoColor=white">
+          <img src="https://img.shields.io/badge/CV_PDF-%234DC730.svg?style=for-the-badge&logo=DOWNLOAD_CV&logoColor=white">
           </a> 
 
 
