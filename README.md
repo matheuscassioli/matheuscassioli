@@ -19,7 +19,7 @@ Resumindo um pouco, atualmente estou me graduando em Análise e Desenvolvimento 
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a target="_blank" href="mailto:matheuscassioli@hotmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:math.cassioli@gmail.com">
+        <img src="https://img.shields.io/badge/hotmail-D14836?&style=for-the-badge&logo=hotmail&logoColor=white&link=mailto:math.cassioli@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a target="_blank" href="https://www.linkedin.com/in/matheuscss">
