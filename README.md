@@ -35,7 +35,7 @@ Resumindo um pouco, atualmente estou me graduando em Análise e Desenvolvimento 
 
 
  
-   ## Facilitadores :hammer:
+   ## Ferramentas :hammer:
 
 <p align="center">
     <a target="_blank" href="#">
