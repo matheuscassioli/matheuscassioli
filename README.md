@@ -4,14 +4,14 @@ Resumindo um pouco, atualmente estou me graduando em Análise e Desenvolvimento 
 
 <br/>
 
-## Skills :nerd_face:
+## Habilidade :nerd_face:
 
 <p align="center">
 <img alt="HTML5" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"><img alt="CSS3" height="45" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img alt="JS" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"><img alt="SASS" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /><img alt="ARDUINO" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /><img alt="NODEJS" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"><img alt="C" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
           
 
               
-## Contatos :iphone:
+## Contatos/Portfófio :iphone:
 
 <p align="center">
     <a target="_blank" href="https://github.com/matheuscassioli">
