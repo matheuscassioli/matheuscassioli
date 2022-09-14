@@ -1,6 +1,6 @@
 # Olá, me chamo Matheus Cassioli 👋   
 
-Resumindo um pouco, atualmente estou me graduando em Análise e Desenvolvimento de Sistemas, e faço parte do time front-end da Faculdade das Américas. Em paralelo as atividades citadas, me empenho em desenvolver pequenos projetos, assim reforçando e refinando meu aprendizado. 
+Resumindo um pouco, atualmente graduando em Análise e Desenvolvimento de Sistemas, faço parte do time front-end da Faculdade das Américas. Em paralelo as atividades citadas, me empenho em desenvolver pequenos projetos, assim reforçando e refinando meu aprendizado. 
 
 <br/>
 
