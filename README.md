@@ -57,6 +57,10 @@ Resumindo um pouco, atualmente graduando em Análise e Desenvolvimento de Sistem
     <a target="_blank" href="#">
         <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
           </a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="#">
+        <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+          </a>
           
  ## Contribuições :pushpin:
 
