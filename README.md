@@ -1,6 +1,6 @@
 # Olá, me chamo Matheus Cassioli 👋   
 
-Resumindo um pouco, atualmente graduando em Análise e Desenvolvimento de Sistemas, integrante do time de desenvolvimento da Penso Tecnologia, empresa que oferece diversas soluções de TI. Em paralelo as atividades citadas, me empenho em desenvolver pequenos projetos, assim reforçando e refinando meu aprendizado. 
+Sou graduado em Análise e Desenvolvimento de Sistemas e estou finalizando minha pós-graduação em Segurança da Informação. Atualmente, atuo como desenvolvedor frontend na Penso Tecnologia, empresa líder em soluções de TI. Além das minhas responsabilidades profissionais, dedico-me ao desenvolvimento de projetos pessoais que ampliam meu conhecimento em tecnologias frontend. Paralelamente, estudo e leio sobre design e experiência do usuário, buscando constantemente aprimorar minhas habilidades para agregar ainda mais valor aos projetos em que trabalho.
 
 <br/>
 
