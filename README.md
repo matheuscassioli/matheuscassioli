@@ -1,6 +1,8 @@
 # Olá, me chamo Matheus Cassioli 👋   
+  
+Formado em Análise e Desenvolvimento de Sistemas, com pós-graduação em Segurança da Informação, tambem com uma veia artística que me guia em tudo o que faço. Minha paixão por tecnologia me trouxe para o mundo do frontend, onde busco criar interfaces funcionais e visualmente atraentes, sempre pensando na melhor experiência para o usuário. Hoje, sou responsável pelo frontend do principal produto da Penso Tecnologia, uma empresa líder em soluções de TI.
 
-Sou graduado em Análise e Desenvolvimento de Sistemas e estou finalizando minha pós-graduação em Segurança da Informação. Atualmente, atuo como desenvolvedor frontend na Penso Tecnologia, empresa líder em soluções de TI. Além das minhas responsabilidades profissionais, dedico-me ao desenvolvimento de projetos pessoais que ampliam meu conhecimento em tecnologias frontend. Paralelamente, estudo e leio sobre design e experiência do usuário, buscando constantemente aprimorar minhas habilidades para agregar ainda mais valor aos projetos em que trabalho.
+Tenho me aprofundado em React e estou constantemente estudando sobre experiência do usuário e testes automatizados. O que mais me motiva é unir técnica e criatividade para entregar soluções que realmente conectem as pessoas com a tecnologia de forma intuitiva e eficiente.
 
 <br/>
 
