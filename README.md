@@ -6,7 +6,7 @@ Tenho me aprofundado em React e estou constantemente estudando sobre experiênci
 
 <br/>
 
-## Stacks que tive/tenho trabalhado :nerd_face:
+## Stacks/tools que tive/tenho trabalhado :nerd_face:
 
 <p align="center">
 <img alt="SASS" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /><img alt="JS" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="45" width="80" /><img src='https://img.icons8.com/plasticine/100/000000/react.png' alt="React" height="45" width="45"/><img alt="NODEJS" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"><img alt="C" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><img alt="ARDUINO" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" height="45" width="80"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height="45" width="80" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="45" width="80"/>
