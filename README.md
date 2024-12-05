@@ -1,4 +1,4 @@
-#Seja bem-vindo ao meu perfil 👋   
+# Seja bem-vindo ao meu perfil 👋   
   
 Formado em Análise e Desenvolvimento de Sistemas, com pós-graduação em Segurança da Informação, tambem com uma veia artística que me guia em tudo o que faço. Minha paixão por tecnologia me trouxe para o mundo do frontend, onde busco criar interfaces funcionais e visualmente atraentes, sempre pensando na melhor experiência para o usuário. Hoje, sou responsável pelo frontend do principal produto da Penso Tecnologia, uma empresa líder em soluções de TI.
 
