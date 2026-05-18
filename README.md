@@ -6,9 +6,7 @@ Toco o front-end de um dos **principais produtos** da empresa na qual faço part
 * **Backend & Stack:** Atualmente aprofundando em fundamentos de PHP-Laravel e construindo soluções modernas com NestJS e Node.js.
  
 <br/>
-
-<h3 align="center">Tech Stack & Ferramentas</h3>
-
+  
 <p align="center"> 
   <img alt="JS" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> 
   <img alt="TS" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> 
