@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=1E90FF&background=00000000&width=435&lines=Hello!+Welcome+to+my+projects+😁)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1E90FF&background=00000000&width=500&lines=Frontend+Developer+%F0%9F%9A%80;Building+Scalable+Web+%26+Mobile+Apps;React%2C+Vue+%26+React+Native;Exploring+NestJS+%26+Laravel)](https://git.io/typing-svg)
 
 Toco o front-end de um dos **principais produtos** da empresa na qual faço parte, atuando desde o planejamento até o deploy. 
 
