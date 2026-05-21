@@ -19,5 +19,3 @@ Toco o front-end de um dos **principais produtos** da empresa na qual faço part
   <img alt="Redux" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/> 
   <img alt="Bitbucket" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"/> 
 </p>
-
----
